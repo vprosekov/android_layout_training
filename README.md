@@ -1,8 +1,10 @@
 # android_layout_training
 Layout training, it is not a final work
 
-# What I learnt?
+# What can it  do?
+  - Nothing, it is just good UI :3
 
+# What I learnt?
   - Constraint Layout basics
   - Elements align, chains creating
   - Custom layout for diffrent screen modes and sizes
